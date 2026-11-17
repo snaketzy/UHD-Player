@@ -1,0 +1,48 @@
+Running `(cd /Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/objective_c-9.6.4/; ANDROID_HOME=/Users/jerry/Library/Android/sdk TMPDIR=/var/folders/5j/jwlw6lld73ndv_ymfch511d00000gn/T/ PATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/appleinternal/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/appleinternal/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Trae.app/Contents/Resources/app/modules/ai-agent/bin:/Users/jerry/.trae/plugins/trae-remote-official/lark/1.0.5/bin:/Users/jerry/Library/Python/3.9/bin:/Users/jerry/.nvm/versions/node/v22.22.0/bin:/Users/jerry/Project/development/flutter/bin:/Users/jerry/bin/Sencha/Cmd/6.0.2.14/..:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/share/dotnet:/Users/jerry/Development/flutter/bin:/Users/jerry/.lmstudio/bin:/Applications/Trae.app/Contents/Resources/app/node_modules/@vscode/ripgrep/bin HOME=/Users/jerry /Users/jerry/Development/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/package_config.json /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/objective_c/7ad245dadc/hook.dill --config=/Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/objective_c/7ad245dadc/input.json )`.
+INFO: 2026-11-17 03:56:05.561843: Using compiler /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang from BuildInput.cCompiler.cc.
+
+INFO: 2026-11-17 03:56:05.568629: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/objective_c-9.6.4/src/include/dart_api_dl.c -fpic -gline-tables-only -I src -o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-11-17 03:56:05.570991: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/objective_c-9.6.4/src/input_stream_adapter.m -fpic -gline-tables-only -I src -o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7INFO: 2026-11-17 03:56:05.571173: Running: /INFO: 2026-11-17 03:56:05.571366: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/objective_c-9.6.4/src/observer.m -fpic -gline-tables-only -I src -o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+
+INFO: 2026-11-17 03:56:05.571834: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/objective_c-9.6.4/src/objective_c_bindings_generated.m -fpic -gline-tables-only -I src -o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/jerry/.pub-cache/hosted/pub.flutter-io.cn/objective_c-9.6.4/src/protocol.m -fpic -gline-tables-only -I src -o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+INFO: 2026-11-17 03:56:06.110868: 
+INFO: 2026-11-17 03:56:06.110902: 
+INFO: 2026-11-17 03:56:06.110914: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o
+
+dl.c.o
+
+INFO: 2026-11-17 03:56:06.165781: 
+INFO: 2026-11-17 03:56:06.165833: 
+INFO: 2026-11-17 03:56:06.165844: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+
+INFO: 2026-11-17 03:56:06.238887: 
+INFO: 2026-11-17 03:56:06.238941: 
+INFO: 2026-11-17 03:56:06.238954: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+INFO: 2026-11-17 03:56:06.690222: 
+INFO: 2026-11-17 03:56:06.690289: 
+INFO: 2026-11-17 03:56:06.690333: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o
+
+INFO: 2026-11-17 03:56:06.707194: 
+INFO: 2026-11-17 03:56:06.707255: 
+INFO: 2026-11-17 03:56:06.707267: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o
+
+INFO: 2026-11-17 03:56:06.717938: 
+INFO: 2026-11-17 03:56:06.717984: 
+INFO: 2026-11-17 03:56:06.717996: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-11-17 03:56:06.748211: 
+INFO: 2026-11-17 03:56:06.748258: 
+INFO: 2026-11-17 03:56:06.748270: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-11-17 03:56:06.748914: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -target arm64-apple-darwin -mmacos-version-min=13 -framework Foundation /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o -o /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+
+INFO: 2026-11-17 03:56:06.930005: 
+INFO: 2026-11-17 03:56:06.930272: ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+INFO: 2026-11-17 03:56:06.930318: Generated /Users/jerry/Working/芮智联睿/Repositories/UHD-Player/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+
